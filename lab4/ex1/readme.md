@@ -1,4 +1,4 @@
-# Exercise 2 - Copy contents from source to destination
+# Exercise 1 - Copy contents from source to destination
 
 **Files**:
 - `ex1.c`: Main program file that creates a child process.
